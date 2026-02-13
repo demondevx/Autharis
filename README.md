@@ -58,7 +58,6 @@ Autharis helps you manage your community presence:
 | `/elevate-reset` | Reset your authenticator using a backup code. | Any Staff |
 | `/elevate-trust` | Managed trusted user lists. | Server Owner |
 | `/honeypot-setup` | Deploy a decoy channel to trap attackers. | Server Admin |
-| `/audit-search` | Query the security audit logs. | Server Owner |
 | `/help` | Show available commands and guides. | Everyone |
 
 ## Privacy-First Design
